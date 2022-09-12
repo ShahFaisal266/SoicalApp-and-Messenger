@@ -1,0 +1,21 @@
+.conservation{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+.conservation:hover{
+    background-color: rgb(231, 231, 231);
+    
+}
+.conservationImg{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 20px;
+}
+.conservationName{
+    font-weight: 500;
+}
